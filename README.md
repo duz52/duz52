@@ -1,4 +1,4 @@
-<h2 align="left">Those who never made a mistake, probably never made a discovery.</h2>
+<h2 align="left">Those who never made a mistake probably never made a discovery.</h2>
 
 ###
 
